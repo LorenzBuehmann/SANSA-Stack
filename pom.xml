@@ -1219,6 +1219,13 @@
                 <version>2.4.2</version>
             </dependency>
 
+            <!-- BigDL for ML layer -->
+            <dependency>
+                <groupId>com.intel.analytics.bigdl</groupId>
+                <artifactId>bigdl-SPARK_3.0</artifactId>
+                <version>0.12.1</version>
+            </dependency>
+
         </dependencies>
     </dependencyManagement>
 

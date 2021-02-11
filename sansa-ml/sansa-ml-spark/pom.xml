@@ -116,6 +116,11 @@
 			<artifactId>scopt_${scala.binary.version}</artifactId>
 		</dependency>
 
+		<dependency>
+			<groupId>com.intel.analytics.bigdl</groupId>
+			<artifactId>bigdl-SPARK_3.0</artifactId>
+		</dependency>
+
 	</dependencies>
 
 	<profiles>
